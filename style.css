@@ -1,0 +1,10 @@
+a{
+    text-decoration: none;
+    color: white;
+    margin: 0px 20px 0px 30px;
+}
+
+.arrow::before{
+    content: "\f0da  ";
+    color: #FB9203;
+}
